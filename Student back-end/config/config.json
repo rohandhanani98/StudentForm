@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "epiz_33912080",
+    "password": "lgUJNBgRwXCJhPV",
+    "database": "epiz_33912080_rohanUser",
+    "host": "sql213.epizy.com",
+    "dialect": "mysql"
+  }
+}
